@@ -1,7 +1,7 @@
 {
-  "weatherApiKey": "key",
-  "mapApiKey": "key",
-  "reverseGeoApiKey": "key",
+  "weatherApiKey": "1daBtvrwqyb0V97ahRr96NHkQQTraKZx",
+  "mapApiKey": "pk.eyJ1IjoibWF4d2VsbDUyNjQiLCJhIjoiY2tpbWVjNDRwMHNwbzJ3cTkwazdtNjZhMiJ9.DuhNtbNZzz3RU2PelpLTdA",
+  "reverseGeoApiKey": "pk.804ee86c0731f9a9d681eb772e41a7ff",
   "startingLat": "32.7473",
   "startingLon": "-97.0945"
 }
