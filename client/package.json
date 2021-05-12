@@ -27,7 +27,7 @@
     "axios": "^0.19.2",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.1.0",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "css-loader": "^4.2.1",
     "date-fns": "^2.15.0",
     "debounce": "^1.2.0",
